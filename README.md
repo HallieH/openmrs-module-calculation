@@ -1,6 +1,6 @@
 # OpenMRS Calculation Module
 
-One Paragraph of project description goes here
+The Calculation module provides a framework for OpenMRS developers to author from simple to complex calculations to produce a particular piece of data for a single patient or a cohort of patients. It is a high level abstraction of rules/calculations, simple in that it provides a minimal number of useful concrete implementations of its core components that can be used out of the box but providing a much more flexible tool for authoring patient centered calculations.
 
 ## Getting Started
 
